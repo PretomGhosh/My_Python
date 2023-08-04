@@ -1,0 +1,6 @@
+a = input()
+p1 = int(a)
+p2 = int(a+a)
+p3 = int(a+a+a)
+p4 = int(a+a+a+a)
+print(p1+p2+p3+p4)
